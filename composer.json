@@ -1,0 +1,16 @@
+{
+    "name": "oxfard/larapack",
+    "description": "Example package for laravel 11",
+    "autoload": {
+        "psr-4": {
+            "Oxfard\\Larapack\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oxfard",
+            "email": "oxfard@mail.ru"
+        }
+    ],
+    "require": {}
+}
